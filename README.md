@@ -32,7 +32,17 @@ This project demonstrates a Security Operations Center (SOC) home lab built usin
 - Observed escalation in alert severity
 
 ## Screenshots
-(Add screenshots here)
+### SMB Brute Force Attack
+
+![SMB Attack](smb_attack.png)  
+![SMB Detection](smb_detection.png)  
+![SMB Details](smb_details.png)
+
+### RDP Brute Force Attack
+
+![RDP Attack](rdp_attack.png)  
+![RDP Detection](rdp_detection.png)  
+![RDP Details](rdp_details.png)
 
 ## Skills Demonstrated
 - SIEM monitoring (Wazuh)
