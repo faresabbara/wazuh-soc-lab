@@ -77,5 +77,7 @@ This project demonstrates a Security Operations Center (SOC) home lab built usin
 
 ## Future Improvements
 -Integrate web application attack detection (Burp Suite)
+
 -Develop custom Wazuh rules for improved detection accuracy
+
 -Expand attack scenarios (privilege escalation, persistence techniques)
