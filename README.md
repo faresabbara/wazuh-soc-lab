@@ -5,7 +5,9 @@ This project demonstrates a Security Operations Center (SOC) home lab built usin
 
 ## Lab Architecture
 -SIEM: Wazuh (Ubuntu)
+
 -Victim Machine: Windows 10
+
 -Attacker Machine: Kali Linux
 
 ## Network
